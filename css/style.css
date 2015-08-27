@@ -1,0 +1,15 @@
+#copy {
+	color: #00f;
+	font-weight: bold;
+}
+
+.v-center {
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+}
+
+.m-v-md {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
