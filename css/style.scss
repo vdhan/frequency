@@ -1,0 +1,25 @@
+$md: 20px;
+
+#copy {
+	color: #00f;
+	font-weight: bold;
+}
+
+.v-center {
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+}
+
+.m-v-md {
+	margin-top: $md;
+	margin-bottom: $md;
+}
+
+.text-reponsive {
+	font-size: 1.1vw;
+}
+
+.btn-multi-line {
+	white-space: normal;
+}

@@ -1,23 +1,2 @@
-#copy {
-	color: #00f;
-	font-weight: bold;
-}
-
-.v-center {
-	display: -ms-flexbox;
-	display: flex;
-	align-items: center;
-}
-
-.m-v-md {
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-
-.text-reponsive {
-	font-size: 1.1vw;
-}
-
-.btn-multi-line {
-	white-space: normal;
-}
+#copy{color:#00f;font-weight:bold}.v-center{display:-ms-flexbox;display:flex;align-items:center}.m-v-md{margin-top:20px;margin-bottom:20px}.text-reponsive{font-size:1.1vw}.btn-multi-line{white-space:normal}
+/*# sourceMappingURL=style.css.map */
